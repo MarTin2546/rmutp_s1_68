@@ -1,6 +1,6 @@
 # Prisma
 
-Anupong Janjaroen
+Thanapoom Chusorn
 
 ## Required
 - Docker & DockerCompose
