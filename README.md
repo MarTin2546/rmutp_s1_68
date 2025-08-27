@@ -9,7 +9,7 @@ Thanapoom Chusorn
 - Prisma
 - VSCode
 - PostgeSQL extensions (Chris Kolkman)
--
+- EXE
 
 ## Running
 ### Database
